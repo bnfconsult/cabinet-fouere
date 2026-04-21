@@ -1,0 +1,783 @@
+========================================================================
+EXPORT CONTENU — SITE CABINET FOUERE
+========================================================================
+Date d'export : Mars 2026
+Structure : 6 pages FR + 5 pages EN + 1 page SEO (EN)
+
+
+========================================================================
+PARTIE 1 — VERSION FRANCAISE
+========================================================================
+
+
+------------------------------------------------------------------------
+PAGE : ACCUEIL (index.html)
+------------------------------------------------------------------------
+
+[Meta description]
+Cabinet Fouere – Cabinet strategique franco-americain. Contentieux d'assurance & gestion d'actifs internationaux depuis 1987.
+
+[Titre de page]
+Cabinet Fouere | Cabinet strategique franco-americain – Contentieux d'assurance & gestion d'actifs
+
+---
+
+[HERO]
+
+Cabinet Fouere
+
+Cabinet strategique franco-americain
+Contentieux d'assurance & gestion d'actifs internationaux
+
+43 rue de Rennes, 75006 Paris
+Depuis 1987
+
+---
+
+[SECTION — Notre Engagement]
+
+Le Cabinet Fouere, fonde en 1987 par Maitre Jacques Fouere, inscrit au Barreau de Paris, allie professionnalisme, reactivite et proximite pour accompagner une clientele institutionnelle francaise et internationale (notamment americaine), ainsi que des particuliers.
+
+01 — Communication optimisee
+Des reponses adaptees a vos besoins, dans les meilleurs delais.
+
+02 — Accompagnement personnalise
+Un suivi sur-mesure a chaque etape de vos demarches.
+
+---
+
+[SECTION — Notre Expertise]
+
+Des domaines d'intervention cibles, une maitrise reconnue depuis plus de 30 ans.
+
+01 — Intermediaires d'assurance
+Contentieux civils, procedures penales, recouvrement de creances et lutte contre la fraude a l'assurance.
+
+02 — Assurance Vie et Capitalisation
+Recherche de contrats, analyse des clauses, actions en justice pour primes excessives.
+
+03 — Responsabilite Civile Professionnelle
+Intervention pour particuliers, entreprises et assureurs a tous les stades.
+
+04 — Assistance Juridique et Detachement
+Solutions flexibles : abonnement mensuel, detachement d'un avocat, formation continue.
+
+05 — Services pour les Etrangers
+Gestion d'actifs en France pour ressortissants etrangers. Assistance en francais et en anglais.
+
+---
+
+[SECTION — Citation]
+
+"Delestez-moi de vos fardeaux, je m'offre en refuge a vos soucis."
+Cabinet Fouere — Avocats au Barreau de Paris depuis 1987
+
+---
+
+[SECTION — CTA]
+
+Confiez-nous votre dossier
+Une expertise technique au service de vos interets.
+[Bouton] Initier une consultation
+
+---
+
+[SECTION — Pourquoi Nous ?]
+
+30+ — Expertise reconnue
+Plus de 30 ans d'expertise en contentieux d'assurance complexe.
+
+Strategie & precision
+Intervention strategique sur dossiers sensibles et techniques.
+
+FR/EN — Communication bilingue
+Accompagnement complet en francais et en anglais.
+
+Cabinet boutique
+Interlocuteur unique, approche sur-mesure pour chaque dossier.
+
+Reseau national
+Intervention sur l'ensemble du territoire francais.
+
+---
+
+[SECTION — Resultats & References]
+
+98% — Contrats recuperes sur 100 dossiers engages
+500+ — Dossiers complexes traites
+30+ — Annees d'experience continue
+France — Intervention sur tout le territoire
+
+Temoignage 1 :
+"Le cabinet a reussi a debloquer des actifs d'assurance vie que nous pensions definitivement perdus. Communication fluide en anglais, strategie remarquable."
+— New York, 2003
+
+Temoignage 2 :
+"Une expertise extremement pointue en droit des assurances. Notre contentieux complexe a ete gere avec precision et fermete."
+— Societe d'assurance (confidentiel)
+
+Temoignage 3 :
+"Clarte, efficacite, discretion. Nous avons obtenu gain de cause apres plusieurs annees de blocage administratif."
+— Heritier franco-americain (confidentiel)
+
+Partenaire : AXA
+
+---
+
+[FOOTER]
+
+Cabinet strategique franco-americain — Avocats au Barreau de Paris depuis 1987
+
+Le Cabinet :
+Contentieux d'assurance, gestion d'actifs internationaux et accompagnement juridique sur-mesure pour une clientele institutionnelle et privee.
+
+Coordonnees :
+43 rue de Rennes, 75006 Paris, France
+
+(c) 2026 Cabinet Fouere — Tous droits reserves
+
+
+------------------------------------------------------------------------
+PAGE : EXPERTISE (expertise.html)
+------------------------------------------------------------------------
+
+[Meta description]
+Cabinet Fouere – Nos domaines d'expertise : intermediaires d'assurance, assurance vie, responsabilite civile, assistance juridique, services pour etrangers.
+
+[Titre de page]
+Expertise | Cabinet Fouere – Avocats a Paris
+
+---
+
+[HERO]
+
+Notre Expertise
+Une maitrise approfondie du droit de l'assurance au service de la defense de vos interets.
+
+---
+
+[Navigation rapide]
+01 — Intermediaires d'assurance
+02 — Assurance Vie
+03 — Responsabilite Civile
+04 — Assistance Juridique
+05 — Services pour les Etrangers
+
+---
+
+[01 — Intermediaires d'assurance]
+
+Specialise depuis plus de 25 ans dans les litiges opposant compagnies d'assurances et intermediaires (agents generaux, courtiers, mandataires), le cabinet intervient dans :
+
+- Contentieux civils : Litiges lies aux contrats d'assurance
+- Procedures penales : Abus de confiance, abus de faiblesse, faux et usage de faux, escroquerie
+- Recouvrement : Creances debiteurs et AGRASC
+- Fraude : Lutte contre la fraude a l'assurance
+
+---
+
+[02 — Assurance Vie et Capitalisation]
+
+Historiquement specialise dans les contrats d'assurance vie et de capitalisation, le cabinet vous assiste sur :
+
+- Recherche de contrats : Identification, acces aux informations, droits des beneficiaires
+- Analyse des clauses : Validite, impact sur les droits successoraux
+- Actions en justice : Reduction, rapport, nullite en cas de primes excessives
+- Contrats de capitalisation : Perte ou vol de bons au porteur, recuperation de valeur financiere, action en paiement de la valeur de rachat
+
+---
+
+[03 — Responsabilite Civile Professionnelle]
+
+Le cabinet intervient pour particuliers, entreprises et assureurs dans les litiges lies a la responsabilite civile professionnelle, a tous les stades :
+
+- Expertise amiable : Avant proces, diligentee par les compagnies
+- Expertise judiciaire : Designee par le tribunal
+- Procedure au fond : Determination des responsabilites et indemnisations
+
+---
+
+[04 — Assistance Juridique et Detachement]
+
+Proposant des solutions flexibles et adaptees, le cabinet offre :
+
+- Abonnement mensuel : Assistance juridique illimitee
+- Detachement : Presence d'un avocat en interne pour des besoins ponctuels
+- Formation continue : Pour les services reclamations et contentieux
+
+---
+
+[05 — Services pour les Etrangers (Actifs en France)]
+
+Le cabinet accompagne les ressortissants etrangers (ou leurs heritiers) dans la gestion de leurs actifs en France, notamment :
+
+- Recherche d'actifs : Deblocage aupres des banques et assurances
+- Successions : Declaration en collaboration avec les services fiscaux
+- Biens immobiliers : Localisation via les services du cadastre et hypotheques
+- Litiges : Assistance en francais et en anglais, negociations amiables
+
+---
+
+[CTA]
+
+Besoin d'un avocat specialise ?
+Chaque situation est unique. Contactez-nous pour echanger sur votre dossier.
+[Bouton] Prendre rendez-vous
+
+
+------------------------------------------------------------------------
+PAGE : LE CABINET (cabinet.html)
+------------------------------------------------------------------------
+
+[Meta description]
+Cabinet Fouere – Fonde en 1987 par Maitre Jacques Fouere, inscrit au Barreau de Paris. Expertise reconnue en droit des assurances.
+
+[Titre de page]
+Le Cabinet | Cabinet Fouere – Avocats a Paris
+
+---
+
+[HERO]
+
+Qui Sommes-Nous ?
+Un cabinet fonde sur l'excellence, la rigueur et la proximite.
+
+---
+
+[PRESENTATION]
+
+Fonde en 1987, le Cabinet Fouere est dirige par Maitre Jacques Fouere, inscrit au Barreau de Paris.
+
+---
+
+[VALEURS]
+
+Expertise reconnue
+En droit des assurances, responsabilite civile et gestion d'actifs.
+
+Approche sur-mesure
+Pour une clientele institutionnelle et privee, francaise et internationale.
+
+Reseau national
+Un reseau de correspondants pour des interventions partout en France.
+
+---
+
+[CTA]
+
+Echanger avec le cabinet
+Chaque situation merite une attention particuliere. Prenons le temps d'en discuter.
+[Bouton] Nous contacter
+
+
+------------------------------------------------------------------------
+PAGE : HONORAIRES (honoraires.html)
+------------------------------------------------------------------------
+
+[Meta description]
+Cabinet Fouere – Honoraires transparents et adaptes : forfait ou honoraires de resultat.
+
+[Titre de page]
+Honoraires | Cabinet Fouere – Avocats a Paris
+
+---
+
+[HERO]
+
+Honoraires
+Des modalites de facturation transparentes et adaptees a chaque dossier.
+
+---
+
+[FORFAIT]
+
+Forfait
+Pour les missions ponctuelles necessitant une intervention ciblee et delimitee dans le temps.
+
+---
+
+[HONORAIRES DE RESULTAT]
+
+Honoraires de resultat
+Selon les cas, une part des honoraires peut etre indexee sur le resultat obtenu.
+
+---
+
+[CTA]
+
+Demander un devis
+Chaque dossier est unique. Contactez-nous pour une estimation personnalisee.
+[Bouton] Demander un devis
+
+
+------------------------------------------------------------------------
+PAGE : CONTACT (contact.html)
+------------------------------------------------------------------------
+
+[Meta description]
+Cabinet Fouere – Contactez-nous. 43 rue de Rennes, 75006 Paris. Assistance en francais et en anglais.
+
+[Titre de page]
+Contact | Cabinet Fouere – Avocats a Paris
+
+---
+
+[HERO]
+
+Nous Contacter
+Echangeons sur votre situation. Toute prise de contact est confidentielle.
+
+---
+
+[INFOS]
+
+Adresse : 43 rue de Rennes, 75006 Paris, France
+Langues : Francais & Anglais
+Depuis : 1987 — Barreau de Paris
+
+---
+
+[CTA]
+
+Echangeons sur votre situation.
+Chaque prise de contact est confidentielle.
+[Bouton] Initier une consultation
+(lien mailto: Jacques.fouere@cabinetfouere.fr)
+
+
+------------------------------------------------------------------------
+PAGE : SERVICES POUR ETRANGERS (services-pour-etrangers.html) — Page SEO EN
+------------------------------------------------------------------------
+
+[Meta description]
+French Lawyer for US Clients – Recover assets, inheritance & insurance policies in France. English-speaking law firm in Paris. Cross-border asset recovery since 1987.
+
+[Titre de page]
+French Lawyers for US Clients | Cabinet Fouere – Assets & Inheritance in France
+
+---
+
+[HERO]
+
+French Lawyers for US Clients
+Trusted legal counsel in Paris for American individuals, families and businesses with assets in France.
+
+---
+
+[SEO Keywords]
+- Lawyer in France for Americans
+- Inheritance in France — US Citizen
+- French Succession Lawyer — English Speaking
+- Recover Assets in France
+
+---
+
+[SECTION — A Strategic French-American Law Firm]
+
+For over 35 years, Cabinet Fouere has been at the forefront of insurance law and cross-border asset recovery in France. Founded in 1987 by Maitre Jacques Fouere, member of the Paris Bar, our firm provides fully bilingual legal counsel (French and English) to American clients navigating the complexities of the French legal system.
+
+Whether you are an heir seeking to recover a life insurance policy, a family dealing with a French succession, or a business resolving a complex insurance dispute, our firm offers the strategic depth and cultural fluency required to protect your interests effectively.
+
+We understand that dealing with legal matters in a foreign country can be daunting. That is precisely why we have built our practice around clarity, precision and direct communication — in your language, on your schedule.
+
+---
+
+[SECTION — Inheritance & Life Insurance]
+(Successions & Assurance Vie)
+
+France's succession laws differ significantly from those in the United States. Forced heirship rules, complex tax treaties and administrative procedures in French can create significant barriers for American heirs.
+
+Our firm specializes in:
+- Locating life insurance policies — Identifying and recovering unclaimed contracts held by French insurance companies, using official registries and legal procedures.
+- Succession planning & disputes — Navigating French forced heirship rules, coordinating with notaires, and resolving disputes between heirs across jurisdictions.
+- Clause analysis & beneficiary rights — Reviewing contract terms, validating beneficiary designations, and challenging excessive premiums when warranted.
+- Tax coordination — Working with French fiscal authorities and US tax advisors to ensure compliance with both jurisdictions.
+
+---
+
+[SECTION — Cross-Border Asset Recovery]
+(Recuperation d'actifs bancaires & immobiliers)
+
+Many American families discover — sometimes decades later — that a relative held bank accounts, investment portfolios or real estate in France. Recovering these assets requires navigating a maze of French administrative, legal and fiscal procedures.
+
+Cabinet Fouere provides end-to-end assistance:
+- Bank account recovery — Engaging with French banks, the Caisse des Depots, and CICLADE to locate and release dormant funds.
+- Real estate identification — Searching the cadastre and land registry (conservation des hypotheques) to locate properties and establish ownership chains.
+- Insurance policy claims — Filing claims with French insurers, challenging unjustified denials, and pursuing legal action when necessary.
+- Administrative coordination — Handling all interactions with French authorities on your behalf, eliminating the language barrier entirely.
+
+---
+
+[SECTION — Litigation & Negotiation]
+(Contentieux & negociations)
+
+When amicable resolution is not possible, Cabinet Fouere provides robust litigation support before French courts. Our three decades of courtroom experience in insurance disputes give our clients a decisive advantage.
+
+- Pre-litigation strategy — Assessing the strength of your case, identifying leverage points, and preparing a compelling legal strategy before engaging in formal proceedings.
+- Court representation — Full advocacy before French civil and commercial courts, with bilingual reporting at every stage.
+- Amicable negotiation — Engaging directly with opposing parties and their counsel to reach favorable settlements without the cost and delay of trial.
+
+---
+
+[SECTION — Administrative & Tax Support]
+(Accompagnement administratif & fiscal)
+
+The French administrative landscape can be overwhelming for foreign clients. Our firm serves as your single point of contact in France, managing all correspondence, filings and official interactions on your behalf.
+
+- Tax declarations — Preparing and filing French tax declarations related to inherited assets, in coordination with the Direction Generale des Finances Publiques.
+- Cross-border tax optimization — Leveraging the France-US tax treaty to minimize double taxation and ensure full compliance.
+- Document procurement — Obtaining official French documents (actes de notoriete, certificats de propriete) and coordinating apostille procedures.
+- Ongoing advisory — Providing continuous legal guidance throughout the entire process, from initial assessment to final resolution.
+
+---
+
+[CTA]
+
+Ready to Discuss Your Situation?
+Every case is unique. Contact us for a confidential, no-obligation consultation — in English.
+[Bouton] Schedule a Consultation
+
+
+========================================================================
+PARTIE 2 — VERSION ANGLAISE (dossier /en/)
+========================================================================
+
+
+------------------------------------------------------------------------
+PAGE : HOME (en/index.html)
+------------------------------------------------------------------------
+
+[Meta description]
+Cabinet Fouere – French-American Strategic Law Firm. Insurance Litigation & Cross-Border Asset Recovery since 1987.
+
+[Titre de page]
+Cabinet Fouere | French-American Strategic Law Firm – Insurance Litigation & Asset Recovery
+
+---
+
+[HERO]
+
+Cabinet Fouere
+
+French-American Strategic Law Firm
+Insurance Litigation & Cross-Border Asset Recovery
+
+43 rue de Rennes, 75006 Paris
+Since 1987
+
+---
+
+[SECTION — Our Commitment]
+
+Founded in 1987 by Maitre Jacques Fouere, member of the Paris Bar, Cabinet Fouere combines professionalism, responsiveness and proximity to serve a French and international institutional clientele (particularly American), as well as private individuals.
+
+01 — Streamlined Communication
+Tailored responses to your needs, delivered promptly.
+
+02 — Personalised Support
+Bespoke guidance at every stage of your proceedings.
+
+---
+
+[SECTION — Our Expertise]
+
+Targeted areas of practice, recognised mastery for over 30 years.
+
+01 — Insurance Intermediaries
+Civil litigation, criminal proceedings, debt recovery and insurance fraud prevention.
+
+02 — Life Insurance & Capitalisation
+Policy tracing, clause analysis, legal action for excessive premiums.
+
+03 — Professional Liability
+Representation for individuals, companies and insurers at all stages.
+
+04 — Legal Support & Secondment
+Flexible solutions: monthly retainer, lawyer secondment, continuing education.
+
+05 — Services for Foreign Clients
+Asset management in France for foreign nationals. Assistance in French and English.
+
+---
+
+[SECTION — Quote]
+
+"Unburden yourself — let us shoulder your concerns."
+Cabinet Fouere — Paris Bar Attorneys since 1987
+
+---
+
+[SECTION — CTA]
+
+Entrust Us with Your Case
+Technical expertise serving your interests.
+[Bouton] Schedule a Consultation
+
+---
+
+[SECTION — Why Choose Us?]
+
+30+ — Recognised Expertise
+Over 30 years of expertise in complex insurance litigation.
+
+Strategy & Precision
+Strategic intervention on sensitive and technical cases.
+
+FR/EN — Bilingual Practice
+Full support in both French and English.
+
+Boutique Firm
+Single point of contact, bespoke approach for every case.
+
+Nationwide Reach
+Representation across the entire French territory.
+
+---
+
+[SECTION — Results & Track Record]
+
+98% — Policies recovered across 100 cases handled
+500+ — Complex cases handled
+30+ — Years of continuous experience
+France — Nationwide coverage
+
+Testimonial 1:
+"The firm succeeded in unlocking life insurance assets we thought were permanently lost. Seamless communication in English, remarkable strategy."
+— New York, 2003
+
+Testimonial 2:
+"Extremely sharp expertise in insurance law. Our complex litigation was handled with precision and firmness."
+— Insurance company (confidential)
+
+Testimonial 3:
+"Clarity, efficiency, discretion. We obtained a favourable ruling after several years of administrative deadlock."
+— French-American heir (confidential)
+
+Partner: AXA
+
+---
+
+[FOOTER]
+
+French-American Strategic Law Firm — Paris Bar since 1987
+
+The Firm:
+Insurance litigation, cross-border asset recovery and tailored legal support for institutional and private clients.
+
+Contact:
+43 rue de Rennes, 75006 Paris, France
+
+(c) 2026 Cabinet Fouere — All rights reserved
+
+
+------------------------------------------------------------------------
+PAGE : EXPERTISE (en/expertise.html)
+------------------------------------------------------------------------
+
+[Meta description]
+Cabinet Fouere – Our areas of expertise: insurance intermediaries, life insurance, professional liability, legal support, services for foreign clients.
+
+[Titre de page]
+Expertise | Cabinet Fouere – Paris Attorneys
+
+---
+
+[HERO]
+
+Our Expertise
+In-depth mastery of insurance law, serving the defence of your interests.
+
+---
+
+[Navigation rapide]
+01 — Insurance Intermediaries
+02 — Life Insurance
+03 — Professional Liability
+04 — Legal Support
+05 — Services for Foreign Clients
+
+---
+
+[01 — Insurance Intermediaries]
+
+Specialising for over 25 years in disputes between insurance companies and intermediaries (general agents, brokers, mandataries), the firm handles:
+
+- Civil Litigation: Disputes arising from insurance contracts
+- Criminal Proceedings: Breach of trust, abuse of weakness, forgery, fraud
+- Debt Recovery: Outstanding debts and AGRASC claims
+- Fraud Prevention: Combating insurance fraud
+
+---
+
+[02 — Life Insurance & Capitalisation]
+
+Historically specialised in life insurance and capitalisation contracts, the firm assists you with:
+
+- Policy Tracing: Identification, information access, beneficiary rights
+- Clause Analysis: Validity, impact on inheritance rights
+- Legal Action: Reduction, reporting, nullity in cases of excessive premiums
+- Capitalisation Contracts: Lost or stolen bearer bonds, financial value recovery, surrender value claims
+
+---
+
+[03 — Professional Liability]
+
+The firm represents individuals, companies and insurers in professional liability disputes at all stages:
+
+- Amicable Assessment: Pre-trial, initiated by insurance companies
+- Judicial Assessment: Court-appointed expertise
+- Proceedings on the Merits: Determining liability and compensation
+
+---
+
+[04 — Legal Support & Secondment]
+
+Offering flexible and tailored solutions, the firm provides:
+
+- Monthly Retainer: Unlimited legal support
+- Secondment: In-house lawyer presence for specific needs
+- Continuing Education: For claims and litigation departments
+
+---
+
+[05 — Services for Foreign Clients (Assets in France)]
+
+The firm assists foreign nationals (or their heirs) in managing their assets in France, including:
+
+- Asset Tracing: Unlocking funds held by banks and insurers
+- Successions: Tax declarations in collaboration with fiscal authorities
+- Real Estate: Location via cadastral and mortgage services
+- Disputes: Assistance in French and English, amicable negotiations
+
+---
+
+[CTA]
+
+Need a Specialist Attorney?
+Every situation is unique. Contact us to discuss your case.
+[Bouton] Schedule a Consultation
+
+
+------------------------------------------------------------------------
+PAGE : THE FIRM (en/cabinet.html)
+------------------------------------------------------------------------
+
+[Meta description]
+Cabinet Fouere – Founded in 1987 by Maitre Jacques Fouere, member of the Paris Bar. Recognised expertise in insurance law.
+
+[Titre de page]
+The Firm | Cabinet Fouere – Paris Attorneys
+
+---
+
+[HERO]
+
+Who Are We?
+A firm founded on excellence, rigour and proximity.
+
+---
+
+[PRESENTATION]
+
+Founded in 1987, Cabinet Fouere is led by Maitre Jacques Fouere, member of the Paris Bar.
+
+---
+
+[VALUES]
+
+Recognised Expertise
+In insurance law, professional liability and asset management.
+
+Bespoke Approach
+For an institutional and private, French and international clientele.
+
+Nationwide Network
+A network of correspondents for representation across France.
+
+---
+
+[CTA]
+
+Discuss with the Firm
+Every situation deserves special attention. Let us take the time to discuss it.
+[Bouton] Schedule a Consultation
+
+
+------------------------------------------------------------------------
+PAGE : FEES (en/honoraires.html)
+------------------------------------------------------------------------
+
+[Meta description]
+Cabinet Fouere – Transparent and tailored fee structures: fixed fees or success-based fees.
+
+[Titre de page]
+Fees | Cabinet Fouere – Paris Attorneys
+
+---
+
+[HERO]
+
+Fees
+Transparent and tailored billing arrangements for every case.
+
+---
+
+[FIXED FEE]
+
+Fixed Fee
+For specific assignments requiring targeted and time-limited intervention.
+
+---
+
+[SUCCESS-BASED FEES]
+
+Success-Based Fees
+Where appropriate, a portion of fees may be indexed to the outcome achieved.
+
+---
+
+[CTA]
+
+Request a Quote
+Every case is unique. Contact us for a personalised estimate.
+[Bouton] Request a Quote
+
+
+------------------------------------------------------------------------
+PAGE : CONTACT (en/contact.html)
+------------------------------------------------------------------------
+
+[Meta description]
+Cabinet Fouere – Contact us. 43 rue de Rennes, 75006 Paris. Assistance in French and English.
+
+[Titre de page]
+Contact | Cabinet Fouere – Paris Attorneys
+
+---
+
+[HERO]
+
+Contact Us
+Let us discuss your situation. All enquiries are treated in strict confidence.
+
+---
+
+[INFO]
+
+Address: 43 rue de Rennes, 75006 Paris, France
+Languages: French & English
+Since: 1987 — Paris Bar
+
+---
+
+[CTA]
+
+Let us discuss your situation.
+Every enquiry is treated in strict confidence.
+[Bouton] Schedule a Consultation
+(lien mailto: Jacques.fouere@cabinetfouere.fr)
+
+
+========================================================================
+FIN DE L'EXPORT
+========================================================================
